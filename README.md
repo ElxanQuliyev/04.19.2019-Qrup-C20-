@@ -7,7 +7,7 @@
 <li>Elavə olaraq yeni bir themplate şekli homework folderinə yüklədim.     
 </li>
 <li>
-  CSS-də aşağıdakı mövzuları oxuyun:
+ CSS-ə dair aşağıdakı mövzuları w3schools və css-tricks-dən ətraflı şəkildə oxuyun:
   <ul>
     <li>Display: inline-block</li>
     <li>Display: flex (https://css-tricks.com/snippets/css/a-guide-to-flexbox/,
