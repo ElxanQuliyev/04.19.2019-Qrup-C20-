@@ -1,0 +1,50 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.clearfix{
+    clear: both;
+}
+
+/* Helper classes */
+
+.text-center{
+    text-align: center;
+}
+
+
+#main{
+    height: 700px;
+    background-image: url("https://bit.ly/2O5U2L0");
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+.inner{
+    margin-left: 10%;
+}
+
+.inner h5{
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.inner h1{
+    font-size: 3em;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+.inner p{
+    width: 30%;
+    line-height: 25px;
+    font-size: 18px;
+    color: #555;
+}
+.inner h6{
+    color: rgb(32, 28, 28);
+    margin-top: 30px;
+}

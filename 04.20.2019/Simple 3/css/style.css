@@ -1,0 +1,44 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.clearfix{
+    clear: both;
+}
+
+/* Helper classes */
+
+.text-center{
+    text-align: center;
+}
+
+main{
+    background-color: rgb(70, 65, 65);
+    padding: 30px 0;
+    color: white;
+}
+.textUpper p{
+    width: 80%;
+    margin: 30px auto 60px;
+    font-size: 18px;
+}
+.textLower p{
+    width: 90%;
+    margin: 30px auto 40px;
+    font-size: 18px;
+}
+
+.mainDivs{
+    display: flex;
+    justify-content: space-around;
+}
+
+.inner{
+    width: 20%;
+    height: 250px;
+    border: 3px solid black;
+    background-color: white;
+}
+
