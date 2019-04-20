@@ -27,5 +27,5 @@
   </ul>
 </li>
 </ul>
-  <h3>04.20.2019 folder-ində demo saytlar atdim baxa bilersiz</h3>
+  <h3>04.20.2019 folder-ində demo template-lər atdim baxa bilersiz</h3>
   <i>Xoş hefte sonları</i>
